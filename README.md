@@ -1,17 +1,17 @@
 # H&acirc;rn Friends, Foes, and Followers, Volume 1
 
-This module provides a list of 143 characters of various types and social classes that you can use in your own games.  Each character contains a comprehensive list of skills, weapons, armor, and detailed backstory with portrait and adventure hooks.
+This [Foundry VTT](https://foundryvtt.com/) module provides a list of 143 characters of various types and social classes that you can use in your own games.  Each character contains a comprehensive list of skills, weapons, armor, and detailed backstory with portrait and adventure hooks.
 
-This module is specifically designed to be used with the [HarnMaster 3](https://foundryvtt.com/packages/hm3/) system; it will probably not work with any other systems.
+This module is specifically designed to be used with the Foundry VTT [HarnMaster 3](https://foundryvtt.com/packages/hm3/) system; it will probably not work with any other systems.
 
 ## Activate the module
 After installing, as GM go to the `Manage Modules` options menu in your World Settings tab then enable the `hm3-fffv1` module.
 
 ## Usage
 
-The characters will then show up under `Compendium Packs`
+The characters will show up under `Compendium Packs` as "Friends, Foes, and Followers V1".
 
-Open the characters from the Compendium Packs and then drag the desired character into the Actors tab.  Or right click on a character and select "Import Entry".
+Open the characters from the Compendium Pack and then drag the desired character into the Actors tab.  Or right click on a character and select "Import Entry".
 
 # Included Characters
 
@@ -164,4 +164,29 @@ Zoë Fiôrfohd | Yeoman (SB) | FFF 127-3 Yeoman SB
 # Credits
 
 These 143 characters are taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivitave work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+
+Many thanks to the following character art sponsors, without whose generosity these characters would just be a bunch of statistics:
+
+### CHARACTER ART SPONSORS
+* Kerry Mould (43)
+* Patrick Nilsson (41)
+* John S. Daniel II (20)
+* Dave St. Pierre (6)
+* Andy Gibson (5)
+* Phillip Calkins (4)
+* Paul Kunnap (4)
+* Ed Barach (3)
+* Rob Barnes (3)
+* Edward Dewe (3)
+* Peter Bruhn Andersen (3)
+* Scott Shorter (2)
+* Paul Barr (1)
+* Aaron Hay (1)
+* Leigh Heron (1)
+* David Hoey (1)
+* Allan Prewett (1)
+* Columbia Games Inc. (1)
+
+### COVER ART SPONSOR
+* Helmut Fritz
 
