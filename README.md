@@ -1,6 +1,6 @@
 # H&acirc;rn Friends, Foes, and Followers, Volume 1
 
-This [Foundry VTT](https://foundryvtt.com/) module provides a list of 143 characters of various types and social classes that you can use in your own games.  Each character contains a comprehensive list of skills, weapons, armor, and detailed backstory with portrait and adventure hooks.
+This [Foundry VTT](https://foundryvtt.com/) module provides a list of 144 characters of various types and social classes that you can use in your own games.  Each character contains a comprehensive list of skills, weapons, armor, and detailed backstory with portrait and adventure hooks.
 
 This module is specifically designed to be used with the Foundry VTT [HarnMaster 3](https://foundryvtt.com/packages/hm3/) system; it will probably not work with any other systems.
 
@@ -38,6 +38,7 @@ Dafyd Stahlman | Mercenary (MH) | FFF 116-1 Mercenary MH
 Dagwyn of Khael | Lexigrapher | FFF 314-1 Lexigrapher
 Dame Afaewynn Barthy | Knight Bachelor (MH) | FFF 506-2 Feudal Knight MH
 Dame Lyesa Garavania | Knight | FFF 507-3 Fighting Order MH
+Derbis | Hunter | FFF 899-1 Other Non Human
 Derrial Cyeen | Priest of Siem | FFF 610-1 Priest Siem
 Dersory of Talkene | Ostler | FFF 322-1 Ostler
 Digger | Day labourer | FFF 423-1 Urban Poor
@@ -163,7 +164,7 @@ Zoë Fiôrfohd | Yeoman (SB) | FFF 127-3 Yeoman SB
 
 # Credits
 
-These 143 characters are taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivitave work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+These 144 characters are taken from "Friends, Foes, and Followers, Vol. 1" on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is "fanon", a derivitave work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
 
 Many thanks to the following character art sponsors, without whose generosity these characters would just be a bunch of statistics:
 
