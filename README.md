@@ -191,3 +191,18 @@ Many thanks to the following character art sponsors, without whose generosity th
 ### COVER ART SPONSOR
 * Helmut Fritz
 
+### Additional Credits
+Character portrait tokens generated using [Token Stamp](http://rolladvantage.com/tokenstamp/).
+
+# Copyright
+The following copyright statement is from the "Friends, Foes, and Followers Volume 1" work upon which this work is based.
+
+A Hârn Writers’ Guild Book, 2020
+Self-published by Hârn Writers’ Guild.
+Available for download free at http://www.lythia.com/
+
+This work, created by Kerry R. Mould et al, is a derivative work of copyrighted material published by Columbia Games Inc. and is released for free distribution and personal use by Kerry R. Mould without the permission or endorsement of N. Robin Crossby or Columbia Games Inc. No modification of said work may be made without the explicit written permission of the author, Kerry R. Mould. Hârn, HârnWorld and HârnMaster are trademarks of Columbia Games Inc. Use of these or other trademarks are not intended as a challenge of the status of said trademarks. All distribution must keep this copyright and trademark notice intact.
+
+Copyright © 2020, N. Robin Crossby & Columbia Games Inc.
+All rights reserved.
+
