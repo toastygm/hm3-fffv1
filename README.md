@@ -1,4 +1,7 @@
 # H&acirc;rn Friends, Foes, and Followers, Volume 1
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm3-fffv1)](https://github.com/toastygm/hm3-fffv1/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm3-fffv1&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm3-fffv1)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm3-fffv1/releases/latest&color=green)](https://github.com/toastygm/hm3-fffv1/releases/latest)
 
 This [Foundry VTT](https://foundryvtt.com/) module provides a list of 144 characters of various types and social classes that you can use in your own games.  Each character contains a comprehensive list of skills, weapons, armor, and detailed backstory with portrait and adventure hooks.
 
