@@ -1,32 +1,35 @@
 {
-  "name": "hm3-fffv1",
+  "id": "hm3-fffv1",
   "title": "Harn Friends, Foes, and Followers V1",
   "description": "<p>A collection of 144 characters taken from “Friends, Foes, and Followers, Vol. 1” on Lythia.com (https://www.lythia.com/game_aides/friends-foes-followers-volume-1/), by Kerry Mould, with illustrations by Richard Luscheck and Juha Makkonen, and is “fanon”, a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>",
-  "version": "1.4.1",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.8",
-  "minimumSystemVersion": "1.2.19",
-  "system": ["hm3"],
+  "version": "1.5.0",
   "bugs": "https://github.com/toastygm/hm3-fffv1/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
-      "name": "Tom Rodriguez",
-      "discord": "toasty#8538"
+      "name": "Toasty",
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "packs": [
     {
       "name": "actors",
       "label": "Friends, Foes, and Followers V1",
       "path": "/packs/friends-foes-and-followers-v1.db",
-      "entity": "Actor"
+      "type": "Actor",
+      "system": "hm3",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm3-fffv1/",
-  "manifest": "https://raw.githubusercontent.com/toastygm/hm3-fffv1/master/module.json",
-  "download": "https://github.com/toastygm/hm3-fffv1/archive/v1.4.1.zip",
+  "manifest": "https://github.com/toastygm/hm3-fffv1/releases/latest/download/module.json",
+  "download": "https://github.com/toastygm/hm3-fffv1/releases/v1.5.0/download/module.zip",
   "flags": {
     "allowBugReporter": true
   }
