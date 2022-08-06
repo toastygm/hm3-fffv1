@@ -25,9 +25,8 @@
         "id": "hm3",
         "type": "system",
         "manifest": "https://github.com/toastygm/HarnMaster-3-FoundryVTT/releases/latest/download/system.json",
-  "minimumCoreVersion": "10",
         "compatibility": {
-          "verified": "1.4.0"
+          "minimum": "1.4.0"
         }
       }
     ]
@@ -38,8 +37,7 @@
       "label": "Friends, Foes, and Followers V1",
       "path": "/packs/friends-foes-and-followers-v1.db",
       "type": "Actor",
-      "system": "hm3",
-      "flags": {}
+      "system": "hm3"
     }
   ],
   "url": "https://github.com/toastygm/hm3-fffv1/",
